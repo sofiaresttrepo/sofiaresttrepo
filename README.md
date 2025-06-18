@@ -35,15 +35,15 @@ Actualmente me desempeño como **Full Stack Developer**, capaz de liderar proces
 
 ## 📫 Contacto
 
-- Email: **sofiaresttrepo@gmail.com**
-- Teléfono: **+57 305 473 4002**
-- GitHub: [github.com/sofiaresttrepo](#) 
-- LinkedIn: [linkedin.com/in/sofiaresttrepo](#) 
+- **sofiaresttrepo@gmail.com**
+- [GitHub](https://github.com/sofiaresttrepo)
+- [LinkedIn](https://linkedin.com/in/sofiaresttrepo)
+
 ---
 
 
-### 👀 Face Reveal
+### 😎 Face Reveal
 
-<p align="center">
-  <img src="assets/facereveal.jpg" alt="Face reveal meme" width="400"/>
+<p align="left">
+  <img src="assets/facereveal.jpg" alt="Face reveal meme" width="300"/>
 </p>
