@@ -2,7 +2,7 @@
   <img src="assets/banner (2).png" alt="banner" width="1000"/>
 </p>
 
-Desarrolladora de software con 15 meses de experiencia especializada en el análisis, diseño y desarrollo de plataformas web. He trabajado en la implementación de soluciones robustas y escalables tanto en el frontend como en el backend, integrando tecnologías modernas como Angular, TypeScript, PHP (Laravel), y MySQL, Implementando  tecnologías de **inteligencia artificial aplicada**, como chatbots inteligentes y modelos de procesamiento de lenguaje natural (NLP). He participado activamente en proyectos que que transformen procesos operativos, mejoren la experiencia del usuario y permitan tomar decisiones basadas en datos.
+Desarrolladora de software con 15 meses de experiencia especializada en el análisis, diseño y desarrollo de plataformas. He trabajado en la implementación de soluciones robustas y escalables tanto en el frontend como en el backend, integrando tecnologías modernas como Angular, TypeScript, PHP (Laravel), y MySQL, Implementando  tecnologías de **inteligencia artificial aplicada**, como chatbots inteligentes y modelos de procesamiento de lenguaje natural (NLP). He participado activamente en proyectos que que transformen procesos operativos, mejoren la experiencia del usuario y permitan tomar decisiones basadas en datos.
 
 ## 💡 Rol Profesional
 
